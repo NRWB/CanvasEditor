@@ -1,3 +1,22 @@
+/**
+ * Side Notes:
+ * - Contains no personal student information.
+ *   (However, does depict certain aspects of the
+ *   algorithm used for naming conventions)
+ * - Uses java.nio features implemented in java version 1.7
+ * - No javadaoc support
+ * 
+ * To Do:
+ * - Add a date time stamp to output folder name.
+ *   (allows for multiple folder creations)
+ * - Use http://commons.apache.org/proper/commons-cli/
+ *   for command line arguments.
+ * - Add support for more file types
+ *   (both to extraction, ex allow compressed files
+ *   and also to command line specification)
+ * - Add more code documentation / examples
+ * - Add java doc 
+ */
 import java.io.IOException;
 import java.nio.file.CopyOption;
 import java.nio.file.DirectoryStream;
